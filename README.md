@@ -1,13 +1,13 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=200&section=header&text=Olá,%20eu%20sou%20uma%20Full%20Stack%20Girl%20Dev%20💖&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://i.pinimg.com/originals/https://pin.it/2JlD56gyI.gif" width="500"/>
 </p>
 
 <h3 align="center">💻 Full Stack Developer | 🎨 Design & UX/UI | 🚀 Future SaaS Founder</h3>
 
 <p align="center">
   <em>
-    “Tecnologia, criatividade e estudo constante — tudo com um toque fofo ✨”
+    “Transformando ideias em soluções digitais por meio da tecnologia e do aprendizado contínuo.✨”
   </em>
 </p>
 
@@ -15,6 +15,7 @@
 
 ## 💖 Sobre mim
  📑 **Técnica em Administração (QI)**, unindo conhecimentos administrativos, organização e visão de negócios ao desenvolvimento de software e produtos digitais.
+ 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **UNINTER**  
 📜 **Certificação Full Stack** pela **+praTi**  
 👩‍💻 Atualmente faço parte de uma **equipe de programadores**, focada no desenvolvimento de um **software funcional voltado para estudos e prática real**  
