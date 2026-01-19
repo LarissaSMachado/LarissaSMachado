@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/https://https://i.pinimg.com/originals/70/19/08/701908f6fd0b113b9b493ba689fd0e71.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/https://i.pinimg.com/originals/70/19/08/701908f6fd0b113b9b493ba689fd0e71.gif" width="500"/> 
 </p>
 
 <h3 align="center">💻 Full Stack Developer | 🎨 Design & UX/UI | 🚀 Future SaaS Founder</h3>
